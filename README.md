@@ -1,4 +1,4 @@
-# Foundations-of-Deep-Learning
+# Foundations of Deep Learning
 
 This exam consisted of a written test and a project on the main topics of the course.
 
